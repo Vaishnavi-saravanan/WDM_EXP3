@@ -38,7 +38,7 @@ for each wear category.</p>
 </p>
 ### Program:
 
-```
+```python
 from collections import defaultdict
 from itertools import combinations
 # Function to generate candidate k-item sequences
@@ -116,7 +116,7 @@ else:
 ![w1](https://github.com/user-attachments/assets/d048a402-9219-4313-a30a-6298d45cc609)
 
 ### Visualization:
-```
+```python
 import matplotlib.pyplot as plt
 
 # Function to visualize frequent sequential patterns with a line plot
